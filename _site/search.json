@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ahmed Khan",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I’m Ahmed Khan. I’m a graduate student studying Economics & Data Science. I am interested in history, finance, tech, and Urdu poetry."
+  },
+  {
+    "objectID": "about.html#books",
+    "href": "about.html#books",
+    "title": "About Me",
+    "section": "Books",
+    "text": "Books\nCurrently reading: The Emperor Who Never Was by Supriya Gandhi\n\nHistory\n\nThe Emperor Who Never Was\nThe Muqaddimah\n\n\n\nPhilosophy\n\nThe Impossible State by Wael Hallaq\nScarcity: Why Having Too Little Means So Much\n\n\n\nBusiness\n\nZero to One\n\n\n\nPoetry\n\nShikwa & Jawab-e-Shikwa\n\n\n\nNovels\n\nStoner\nIn Other Rooms, Other Wonders\nNotes From the Underground\nThe Death of Ivan Illyich"
+  }
+]
